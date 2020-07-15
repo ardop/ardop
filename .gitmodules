@@ -1,3 +1,27 @@
 [submodule "Arduino_code"]
 	path = Arduino_code
 	url = https://github.com/ardop/Arduino_code.git
+[submodule "Audio_Processing"]
+	path = Audio_Processing
+	url = https://github.com/ardop/Audio_Processing.git
+[submodule "Matlab"]
+	path = Matlab
+	url = https://github.com/ardop/Matlab.git
+[submodule "Designs"]
+	path = Designs
+	url = https://github.com/ardop/Designs.git
+[submodule "User_Interface"]
+	path = User_Interface
+	url = https://github.com/ardop/User_Interface.git
+[submodule "Object_Recognition"]
+	path = Object_Recognition
+	url = https://github.com/ardop/Object_Recognition.git
+[submodule "Kinematics"]
+	path = Kinematics
+	url = https://github.com/ardop/Kinematics.git
+[submodule "Documentation"]
+	path = Documentation
+	url = https://github.com/ardop/Documentation.git
+[submodule "Localization_And_Mapping"]
+	path = Localization_And_Mapping
+	url = https://github.com/ardop/Localization_And_Mapping.git
